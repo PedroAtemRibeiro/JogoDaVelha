@@ -12,3 +12,8 @@ Condição Jogador 2 Vencendo ->
 
 https://user-images.githubusercontent.com/114637779/214390623-58b1f73e-fa07-4e9a-a8e3-fb55a72dcc15.mp4
 
+Condição Jogador 3 Empate(Velha)->
+
+
+https://user-images.githubusercontent.com/114637779/214391878-6abac95d-a921-4567-a9a6-ac09f3f61de6.mp4
+
